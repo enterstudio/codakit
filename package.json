@@ -20,11 +20,11 @@
     "colors": "^1.1.2",
     "immutable": "^4.0.0-rc.1",
     "lodash": "^4.17.4",
-    "redux": "^3.6.0",
-    "redux-actions": "^2.0.1",
+    "redux": "^4.0.0",
+    "redux-actions": "^2.5.0",
     "redux-thunk": "^2.2.0",
-    "xml2js": "^0.4.17",
-    "yargs": "^7.1.0"
+    "xml2js": "^0.4.18",
+    "yargs": "^16.1.1"
   },
   "devDependencies": {
     "babel-cli": "^6.23.0",
